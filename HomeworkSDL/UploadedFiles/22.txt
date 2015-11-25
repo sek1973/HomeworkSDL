@@ -1,0 +1,69 @@
+SDL Translation Management System
+
+Fine-Tune Your Global Translation Program
+-----------------------------------------
+Presenting your content in the local language of your target market
+is a critical component of any successful customer engagement
+program. SDL Translation Management System (TMS) automates
+and accelerates global translation tasks and greatly reduces the
+cost of supporting local language content. SDL TMS centralizes
+translation efforts, merging manual, disparate processes into a
+single, streamlined program.
+
+Unifying people, process and technology
+SDL TMS manages and streamlines the entire localization supply
+chain, including project managers, language service providers
+(LSPs), freelance translators, linguistic reviewers and subject matter
+experts. SDL TMS integrates with existing authoring tools and
+content management systems (CMS) and improves translation
+efficiency with advanced translation technologies, including
+translation memory, terminology management and automated
+workflows.
+
+Rapid return on investment
+---------------------------
+The complete outsourcing of the TMS infrastructure, software and
+data enables the system to get up and running very quickly and
+the low initial outlay offered by remote hosting leads to a rapid
+return on investment. SDL TMS uses web protocols, services and
+standards to enable rapid integration into enterprise translation
+applications. With SDL TMS, translators can download translation
+packages including terminology and translation memories and use
+their preferred translation environment, such as SDL Trados Studio,
+for offline translation on the desktop.
+
+
+Benefits of a centralized translation program with SDL TMS:
+------------------------------------------------------------
+
+- Quality content for end users
+Enterprises need to be viewed as an international company
+doing business globally, not a foreign company trying to
+extend their reach into remote markets. SDL TMS helps to
+control the quality and consistency of translated content and
+ensures all translations are sent through predefined review
+cycles.
+
+- Greatly reduced cost
+SDL TMS automatically identifies what content has changed
+and what has previously been approved. Only new content is
+sent out for direct human translation. The cost of translations
+can be reduced by as much as 40% and the overall cost of the
+translation program can be reduced by as much as 80%.
+
+- Decreased administrative burden
+Processes that formerly required dozens of tasks are reduced
+to a few human steps with SDL TMS managing the routing,
+storage and communications between program participants.
+
+- Ability to scale
+Best practices and a consistent communications are enforced
+by SDL TMS's workflow function that can apply a proven
+process to new languages and content types with little
+incremental effort.
+
+- Multivendor support and management
+TMS' flexible workflow management technology allows users
+to designate unique partners as the approved translator or
+reviewer to ensure subject matter experts control the final
+quality of any type of output.

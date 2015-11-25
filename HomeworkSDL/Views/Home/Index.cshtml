@@ -1,0 +1,45 @@
+﻿@model IEnumerable<HomeworkSDL.Models.FileItem>
+
+@{
+    ViewBag.Title = "Uploaded files";
+}
+
+<h2>Uploaded files list</h2>
+
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Name)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.UploadDate)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Lines)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Words)
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Name)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.UploadDate)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Lines)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Words)
+            </td>
+        </tr>
+    }
+
+</table>
+

@@ -1,0 +1,14 @@
+﻿@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+@{
+    ViewBag.Title = "Administration and tools";
+}
+<h2>Administration and tools</h2>
+@{
+    <label for="file">Operations:</label>
+    <br>
+    @Html.ActionLink("Clear current database contents and remove uploaded files", "Clear", "AdminTools")
+    <br><br>
+    @ViewBag.Message
+}
